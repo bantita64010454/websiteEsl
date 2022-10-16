@@ -1,0 +1,53 @@
+
+*
+{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+   position: absolute;
+    top: 0;
+    Left: 0;
+    width: 100%;
+    padding: 30px 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+   
+
+}
+form label {
+    margin-top: -1px; 
+ 
+  text-decoration: none;
+  font-size: 30px;
+  color: palevioletred;
+     font-weight: bold;
+  
+}
+form{
+    position: absolute;
+  
+
+  
+ 
+}
+form input {
+    font-size: 25px;
+  color: palevioletred;
+}
+form button 
+{
+    font-size: 25px;
+  color: palevioletred;
+}
+body {
+   
+    height: 100vh;
+    background: linear-gradient(white,hotpink);
+    display: flex;
+    justify-content: space-between;
+    padding: 100px 100px;
+}
